@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"/Users/gabe/Workspace/Unreal/BattleTanks/BattleTanks/Content": true,
+		"/Users/gabe/Workspace/Unreal/BattleTanks/BattleTanks/.vscode": true,
+		"/Users/gabe/Workspace/Unreal/BattleTanks/BattleTanks/Intermediate": true
+	}
+}
